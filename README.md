@@ -66,6 +66,6 @@ make
 
 Bash
 python3 train_model.py
-# or
+or
 python3 visualize_3d.py
 Note: You must supply your own train.csv from the Lyft 3D Object Detection Kaggle dataset and place it in the /data directory.
